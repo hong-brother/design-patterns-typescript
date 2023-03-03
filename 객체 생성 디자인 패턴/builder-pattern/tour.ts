@@ -1,4 +1,4 @@
-import {DetailPlan} from "./DetailPlan";
+import {DetailPlan} from "./detail-plan";
 
 export class Tour {
     private title: string;

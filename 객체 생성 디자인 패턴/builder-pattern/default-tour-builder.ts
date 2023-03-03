@@ -1,7 +1,7 @@
 
-import {TourBuilder} from "./TourBuilder";
-import {DetailPlan} from "./DetailPlan";
-import {Tour} from "./Tour";
+import {TourBuilder} from "./tour-builder";
+import {DetailPlan} from "./detail-plan";
+import {Tour} from "./tour";
 export class DefaultTourBuilder implements TourBuilder{
     private title: string;
     private nights: number;

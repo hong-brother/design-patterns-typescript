@@ -1,5 +1,5 @@
-import {TourBuilder} from "./TourBuilder";
-import {Tour} from "./Tour";
+import {TourBuilder} from "./tour-builder";
+import {Tour} from "./tour";
 
 export class TourDirector {
     private tourBuilder: TourBuilder;

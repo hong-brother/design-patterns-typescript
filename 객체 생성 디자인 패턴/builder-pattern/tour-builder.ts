@@ -1,5 +1,5 @@
-import {DefaultTourBuilder} from "./DefaultTourBuilder";
-import {Tour} from "./Tour";
+import {DefaultTourBuilder} from "./default-tour-builder";
+import {Tour} from "./tour";
 
 export interface TourBuilder {
     nightsAndDays(nights: number, days: number): TourBuilder;

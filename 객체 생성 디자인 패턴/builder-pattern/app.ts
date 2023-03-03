@@ -1,5 +1,5 @@
-import {DefaultTourBuilder} from "./DefaultTourBuilder";
-import {TourDirector} from "./TourDirector";
+import {DefaultTourBuilder} from "./default-tour-builder";
+import {TourDirector} from "./tour-director";
 
 console.log('builder test');
 const tourPlan1 = new TourDirector(new DefaultTourBuilder());
