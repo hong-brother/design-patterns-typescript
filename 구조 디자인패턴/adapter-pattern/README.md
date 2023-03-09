@@ -25,7 +25,6 @@
 - 객체 adapter의 경우 대부분의 코드를 다시 작성해야 하기 때문에 효율적이지 못하다.
 
 # 실행
-![image3.png](..%2F..%2F..%2F..%2F..%2Fimage3.png)
 ``` bash
 ts-node app.ts
 ```
