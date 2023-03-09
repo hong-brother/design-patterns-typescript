@@ -13,7 +13,7 @@
 - 인터페이스와 실제 구현할 부분을 서로 다른 방식으로 변경해야 할 때 유용하다.
 
 # bridge-pattern 단점
-- 디자인이 복잡해진다는 단점이 있다.[drawing.ts](drawing.ts)[rectangle.ts](rectangle.ts)
+- 디자인이 복잡해진다는 단점이 있다.
 
 # bridge-pattern 과 adapter-pattern 차이
 - 두 패턴 모두 interface의 detail을 감추고자하며 구조적인 차이는 없다.
